@@ -1,0 +1,15 @@
+{
+  "name": "arm-3d-motion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philippe Ozil",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "math3d": "^0.2.2"
+  }
+}
